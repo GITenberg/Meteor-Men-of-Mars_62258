@@ -1,5 +1,5 @@
 _repo: Meteor-Men-of-Mars_62258
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Meteor Men of Mars
 contributor:
   illustrator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '26699'
     url: http://www.gutenberg.org/2009/agents/26699
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Leydenfrost
+covers:
+- cover_type: archival
+  image_path: 62258-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Cord, Harry
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51856
     wikipedia: https://en.wikipedia.org/wiki/Otis_Adelbert_Kline
 description: Listed in magazine table of contents as "Meteor Men of Mars."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62258#Meteor-Men-of-Mars
 gutenberg_issued: '2020-05-28'
 gutenberg_type: Text
 identifiers:
